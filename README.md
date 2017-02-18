@@ -36,3 +36,6 @@ ALTER TABLE `oc_coupon` ADD `discount_plan` TEXT CHARACTER SET utf8 COLLATE utf8
 3. Из папки 'upload' для OpenCart версии 1.5.3.x и  1.5.4.x и из папки 'upload' для 1.5.1.x скопируйте файлы модуля на сайт
 
 Инструкцию по работе с накопительными скидками читайте на сайте: http://sourcedistillery.com/nakopitelnye_skidki_v_opencart.html
+
+
+update от 18.02.2017 Удалил код с модификатора. который блокировал отправку полей при заказе
